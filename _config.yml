@@ -3,7 +3,13 @@ description: "Advanced PhD seminar on algorithmic methods for safe and constrain
 baseurl: "/mse318"
 url: "https://madeleineudell.github.io"
 
-theme: "just-the-docs"
+remote_theme: "just-the-docs/just-the-docs"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Just-the-Docs specific settings
 search_enabled: true
