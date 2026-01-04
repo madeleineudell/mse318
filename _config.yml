@@ -1,0 +1,23 @@
+title: "MS&E 318: Constrained and Safe AI"
+description: "Advanced PhD seminar on algorithmic methods for safe and constrained AI"
+baseurl: ""
+url: ""
+
+theme: "just-the-docs"
+
+# Just-the-Docs specific settings
+search_enabled: true
+aux_links:
+  "Course on GitHub":
+    - "https://github.com/stanford-mse318/course"
+  "Google Sheets Schedule":
+    - "https://docs.google.com/spreadsheets/d/1qYS6aMa5TyBz1OmN1CT787XdBiAisVg9pACr-XSaN9A/edit?gid=0#gid=0"
+
+# Footer content
+footer_content: "MS&E 318: Constrained and Safe AI | Stanford University | Winter 2026"
+
+# Color scheme
+color_scheme: light
+
+# Enable/disable heading anchors
+heading_anchors: true
