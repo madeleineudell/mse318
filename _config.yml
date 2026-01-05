@@ -3,7 +3,10 @@ description: "Advanced PhD seminar on algorithmic methods for safe and constrain
 baseurl: ""
 url: ""
 
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 # Exclude files from Jekyll processing
 exclude:
